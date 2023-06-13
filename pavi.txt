@@ -1,0 +1,43 @@
+<section class="CONTACT" id="CONTACT">
+  <header id="#CONTACT"><div class="w3-row-padding w3-padding-16" id="CONTACT"></div>
+        <h2 class="text-center text-warning">CONTACT-ME</h2>
+        <div class="hi16">
+        <h2 class="text-white">Just say Hello</h2>
+          <div class="mb-3 mt-3">
+            <input type="text" class="form-control bg-dark text-white" id="email" placeholder="Your name" name="email">
+          </div>
+          <div class="mb-3">
+            <input type="email" class="form-control bg-dark text-white" id="pwd" placeholder="Your email" name="pswd">
+          </div>
+          <div class="mb-3">
+            <input type="text" class="form-control bg-dark text-white" id="pwd" placeholder="Your subject" name="pswd">
+          </div>
+          <div class="mb-3 mt-3">
+            <textarea type="text"class="form-control bg-dark text-white" rows="5" id="comment" placeholder="Your address" name="text"></textarea>
+          </div>
+          <div class="form-check mb-3">
+            <label class="form-check-label">
+              </div>
+          </div>
+          <button type="submit" class="btn btn-warning">Send Message</button>
+          </div>
+          <div class="hi17">
+            <h2 class="text-white">Contact Info</h2></div>
+              <div class="hi18">
+              <p>Lorem ipsum dolor sitamet ,consectetur adipising elit .Nune nulla tinei dunt id faucibus sed suscripit feugiat.</p>
+              <pre>
+                <h4><i class="fa-solid fa-envelope"></i> email</h4>
+                devis@example.com
+                Info@support.com
+                <h4><i class="fa-solid fa-phone"></i> Phone</h4>
+                +1 876-369-9009
+                +1 213-519-1786 
+                <h4><i class="fa-solid fa-location-dot"></i> Address</h4>
+                2661 High Meadowlane Bearcreek
+                Olancho KY93544
+
+                <h5 class="text-white">Visite my Social Profile and get Connected</h5>
+              </pre>
+          </div>
+        </div>
+        </div>

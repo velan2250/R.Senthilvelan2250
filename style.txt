@@ -1,0 +1,10 @@
+ .hi17{
+        margin-left: 600px;
+        margin-top: -980px;
+        color:white;
+      }
+      .hi18{
+        margin-left: 580px;
+        margin-top: 00px;
+        color:darkgray;
+      }

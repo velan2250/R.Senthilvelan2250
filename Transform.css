@@ -1,0 +1,14 @@
+div{
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    background-image: url(./Desert.jpg);background-repeat: no-repeat;background-size: cover;
+    transition: height 5s,width 5s,transform 5s;
+}
+div:hover{
+    transform: rotate(360deg);
+    width: 500px;
+    height: 500px;
+    background-image: url(./Desert.jpg);background-repeat: no-repeat;background-size: cover;
+    border-radius: 8px;
+}
